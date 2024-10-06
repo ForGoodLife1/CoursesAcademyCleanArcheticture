@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Feautres\IndividualCQRS\Commands\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.10.0" />
+    <PackageReference Include="MediatR" Version="12.4.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="8.0.8" />
+    <PackageReference Include="Serilog" Version="4.0.2-dev-02226" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoursesAcademy.Data\CoursesAcademy.Data.csproj" />
+    <ProjectReference Include="..\CoursesAcademy.Infrastructure\CoursesAcademy.Infrastructure.csproj" />
+    <ProjectReference Include="..\CoursesAcademy.Service\CoursesAcademy.Service.csproj" />
+  </ItemGroup>
+
+</Project>

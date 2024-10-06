@@ -1,0 +1,17 @@
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\bin\Debug\net8.0\CoursesAcademy.Infrastructure.deps.json
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\bin\Debug\net8.0\CoursesAcademy.Infrastructure.runtimeconfig.json
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\bin\Debug\net8.0\CoursesAcademy.Infrastructure.dll
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\bin\Debug\net8.0\CoursesAcademy.Infrastructure.pdb
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\bin\Debug\net8.0\CoursesAcademy.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\bin\Debug\net8.0\CoursesAcademy.Data.pdb
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\CoursesAcademy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\CoursesAcademy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\CoursesAcademy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\CoursesAcademy.Infrastructure.AssemblyInfo.cs
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\CoursesAcademy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\CoursesA.CFDACE3D.Up2Date
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\CoursesAcademy.Infrastructure.dll
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\refint\CoursesAcademy.Infrastructure.dll
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\CoursesAcademy.Infrastructure.pdb
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\CoursesAcademy.Infrastructure.genruntimeconfig.cache
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Infrastructure\obj\Debug\net8.0\ref\CoursesAcademy.Infrastructure.dll
