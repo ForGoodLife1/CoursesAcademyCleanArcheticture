@@ -1,7 +1,7 @@
 ﻿
 namespace CoursesAcademy.Data.Enums
 {
-    public enum StudentOrderingEnum
+    public enum SectionOrderingEnum
     {
         StudID = 0,
         Name = 1,

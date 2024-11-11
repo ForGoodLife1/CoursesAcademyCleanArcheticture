@@ -10,3 +10,16 @@ C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\C
 C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Data\obj\Debug\net8.0\refint\CoursesAcademy.Data.dll
 C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Data\obj\Debug\net8.0\CoursesAcademy.Data.pdb
 C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\CoursesAcademy\CoursesAcademy.Data\obj\Debug\net8.0\ref\CoursesAcademy.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\bin\Debug\net8.0\CoursesAcademy.Data.deps.json
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\bin\Debug\net8.0\CoursesAcademy.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\bin\Debug\net8.0\CoursesAcademy.Data.pdb
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\CoursesAcademy.Data.csproj.AssemblyReference.cache
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\CoursesAcademy.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\CoursesAcademy.Data.AssemblyInfoInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\CoursesAcademy.Data.AssemblyInfo.cs
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\CoursesAcademy.Data.csproj.CoreCompileInputs.cache
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\CoursesAcademy.Data.sourcelink.json
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\CoursesAcademy.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\refint\CoursesAcademy.Data.dll
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\CoursesAcademy.Data.pdb
+C:\Users\fares\source\repos\CleanArcheticture\CoursesAcademy.CleanArcheticture\Back\CoursesAcademy.Data\obj\Debug\net8.0\ref\CoursesAcademy.Data.dll

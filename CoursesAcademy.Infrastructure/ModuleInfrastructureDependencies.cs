@@ -12,6 +12,14 @@ namespace CoursesAcademy.Infrastructure
         public static IServiceCollection AddInfrastructureDependencies(this IServiceCollection services)
         {
             services.AddTransient<IIndividualRepository, IndividualRepository>();
+            services.AddTransient<ICoporateRepository, CoporateRepository>();
+            services.AddTransient<ICourseRepository, CourseRepository>();
+            services.AddTransient<IInstructorRepository, InstructorRepository>();
+            services.AddTransient<IOfficeRepository, OfficeRepository>();
+            services.AddTransient<IParticpantRepository, ParticpantRepository>();
+            services.AddTransient<IReviewRepository, ReviewRepository>();
+            services.AddTransient<IScheduleRepository, ScheduleRepository>();
+            services.AddTransient<ISectionRepository, SectionRepository>();
             services.AddTransient<IRefreshTokenRepository, RefreshTokenRepository>();
             return services;
         }

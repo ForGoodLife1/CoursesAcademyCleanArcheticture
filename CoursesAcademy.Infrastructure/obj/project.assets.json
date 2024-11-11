@@ -6412,11 +6412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Infrastructure\\CoursesAcademy.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Infrastructure\\CoursesAcademy.Infrastructure.csproj",
       "projectName": "CoursesAcademy.Infrastructure",
-      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Infrastructure\\CoursesAcademy.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Infrastructure\\CoursesAcademy.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6434,8 +6434,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Data\\CoursesAcademy.Data.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Data\\CoursesAcademy.Data.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Data\\CoursesAcademy.Data.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Data\\CoursesAcademy.Data.csproj"
             }
           }
         }

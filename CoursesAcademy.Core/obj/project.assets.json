@@ -6254,11 +6254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj",
+      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj",
       "projectName": "CoursesAcademy.Core",
-      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj",
+      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj",
       "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Core\\obj\\",
+      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6276,14 +6276,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Data\\CoursesAcademy.Data.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Data\\CoursesAcademy.Data.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Data\\CoursesAcademy.Data.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Data\\CoursesAcademy.Data.csproj"
             },
-            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Infrastructure\\CoursesAcademy.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Infrastructure\\CoursesAcademy.Infrastructure.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Infrastructure\\CoursesAcademy.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Infrastructure\\CoursesAcademy.Infrastructure.csproj"
             },
-            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Service\\CoursesAcademy.Service.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Service\\CoursesAcademy.Service.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Service\\CoursesAcademy.Service.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Service\\CoursesAcademy.Service.csproj"
             }
           }
         }

@@ -8,6 +8,48 @@
 
   <ItemGroup>
     <Folder Include="Feautres\IndividualCQRS\Commands\" />
+    <Folder Include="Feautres\InstructorCQRS\NewFolder1\NewFolder1\" />
+    <Folder Include="Feautres\InstructorCQRS\NewFolder1\NewFolder2\" />
+    <Folder Include="Feautres\InstructorCQRS\NewFolder1\NewFolder\" />
+    <Folder Include="Feautres\InstructorCQRS\NewFolder\NewFolder1\" />
+    <Folder Include="Feautres\InstructorCQRS\NewFolder\NewFolder2\" />
+    <Folder Include="Feautres\InstructorCQRS\NewFolder\NewFolder\" />
+    <Folder Include="Feautres\CourseCQRS\NewFolder1\NewFolder1\" />
+    <Folder Include="Feautres\CourseCQRS\NewFolder1\NewFolder2\" />
+    <Folder Include="Feautres\CourseCQRS\NewFolder1\NewFolder\" />
+    <Folder Include="Feautres\CourseCQRS\NewFolder\NewFolder1\" />
+    <Folder Include="Feautres\CourseCQRS\NewFolder\NewFolder2\" />
+    <Folder Include="Feautres\CourseCQRS\NewFolder\NewFolder\" />
+    <Folder Include="Feautres\ScheduleCQRS\NewFolder1\NewFolder1\" />
+    <Folder Include="Feautres\ScheduleCQRS\NewFolder1\NewFolder2\" />
+    <Folder Include="Feautres\ScheduleCQRS\NewFolder1\NewFolder\" />
+    <Folder Include="Feautres\ScheduleCQRS\NewFolder\NewFolder1\" />
+    <Folder Include="Feautres\ScheduleCQRS\NewFolder\NewFolder2\" />
+    <Folder Include="Feautres\ScheduleCQRS\NewFolder\NewFolder\" />
+    <Folder Include="Feautres\ReviewCQRS\NewFolder1\NewFolder1\" />
+    <Folder Include="Feautres\ReviewCQRS\NewFolder1\NewFolder2\" />
+    <Folder Include="Feautres\ReviewCQRS\NewFolder1\NewFolder\" />
+    <Folder Include="Feautres\ReviewCQRS\NewFolder\NewFolder1\" />
+    <Folder Include="Feautres\ReviewCQRS\NewFolder\NewFolder2\" />
+    <Folder Include="Feautres\ReviewCQRS\NewFolder\NewFolder\" />
+    <Folder Include="Feautres\CoporateCQRS\NewFolder1\NewFolder1\" />
+    <Folder Include="Feautres\CoporateCQRS\NewFolder1\NewFolder2\" />
+    <Folder Include="Feautres\CoporateCQRS\NewFolder1\NewFolder\" />
+    <Folder Include="Feautres\CoporateCQRS\NewFolder\NewFolder1\" />
+    <Folder Include="Feautres\CoporateCQRS\NewFolder\NewFolder2\" />
+    <Folder Include="Feautres\CoporateCQRS\NewFolder\NewFolder\" />
+    <Folder Include="Feautres\ParticpantCQRS\NewFolder1\NewFolder1\" />
+    <Folder Include="Feautres\ParticpantCQRS\NewFolder1\NewFolder2\" />
+    <Folder Include="Feautres\ParticpantCQRS\NewFolder1\NewFolder\" />
+    <Folder Include="Feautres\ParticpantCQRS\NewFolder\NewFolder1\" />
+    <Folder Include="Feautres\ParticpantCQRS\NewFolder\NewFolder2\" />
+    <Folder Include="Feautres\ParticpantCQRS\NewFolder\NewFolder\" />
+    <Folder Include="Feautres\SectionCQRS\NewFolder1\NewFolder1\" />
+    <Folder Include="Feautres\SectionCQRS\NewFolder1\NewFolder2\" />
+    <Folder Include="Feautres\SectionCQRS\NewFolder1\NewFolder\" />
+    <Folder Include="Feautres\SectionCQRS\NewFolder\NewFolder1\" />
+    <Folder Include="Feautres\SectionCQRS\NewFolder\NewFolder2\" />
+    <Folder Include="Feautres\SectionCQRS\NewFolder\NewFolder\" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oRm9q4V6578=",
+  "dgSpecHash": "8NHU0V3OhBA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj",
+  "projectFilePath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fares\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fares\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

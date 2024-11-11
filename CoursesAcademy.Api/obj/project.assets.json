@@ -7513,11 +7513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Api\\CoursesAcademy.Api.csproj",
+      "projectUniqueName": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Api\\CoursesAcademy.Api.csproj",
       "projectName": "CoursesAcademy.Api",
-      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Api\\CoursesAcademy.Api.csproj",
+      "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Api\\CoursesAcademy.Api.csproj",
       "packagesPath": "C:\\Users\\fares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Api\\obj\\",
+      "outputPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fares\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7535,8 +7535,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj": {
-              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\CoursesAcademy\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj"
+            "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj": {
+              "projectPath": "C:\\Users\\fares\\source\\repos\\CleanArcheticture\\CoursesAcademy.CleanArcheticture\\Back\\CoursesAcademy.Core\\CoursesAcademy.Core.csproj"
             }
           }
         }

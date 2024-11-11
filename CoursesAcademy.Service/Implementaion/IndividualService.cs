@@ -7,15 +7,14 @@ namespace CoursesAcademy.Infrastructure.Abstract
     {
         private readonly IIndividualRepository _individualRepository;
 
-        public IndividualService(IIndividualRepository individualRepository) 
+        public IndividualService(IIndividualRepository individualRepository)
         {
             _individualRepository=individualRepository;
         }
-         public async Task<List<Individual>> GetIndividualsAsync()
+
+        public async Task<List<Individual>> GetIndividualsAsync()
         {
             return await _individualRepository.GetIndividualsAsync();
         }
-
-        
     }
 }
