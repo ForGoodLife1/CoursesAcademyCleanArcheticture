@@ -8,11 +8,10 @@ namespace CoursesAcademy.Infrastructure.Repositories
 {
     public class SectionRepository : GenericRepositoryAsync<Section>, ISectionRepository
     {
-        private readonly AplicationDbContext _dbContext;
-
+        private DbSet<Section> sections;
         public SectionRepository(AplicationDbContext dbContext) : base(dbContext)
         {
-            _dbContext=dbContext;
+            sections=dbContext.Set<Section>();
         }
         public async Task<List<Section>> GetSectionsAsync()
         {

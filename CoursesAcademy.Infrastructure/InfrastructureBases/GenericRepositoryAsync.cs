@@ -83,8 +83,6 @@ namespace CoursesAcademy.Infarastructure.InfrastructureBases
 
         public IDbContextTransaction BeginTransaction()
         {
-
-
             return _dbContext.Database.BeginTransaction();
         }
 
@@ -97,7 +95,6 @@ namespace CoursesAcademy.Infarastructure.InfrastructureBases
         public void RollBack()
         {
             _dbContext.Database.RollbackTransaction();
-
         }
 
         public IQueryable<T> GetTableAsTracking()
@@ -110,6 +107,21 @@ namespace CoursesAcademy.Infarastructure.InfrastructureBases
         {
             _dbContext.Set<T>().UpdateRange(entities);
             await _dbContext.SaveChangesAsync();
+        }
+
+        public async Task<IDbContextTransaction> BeginTransactionAsync()
+        {
+            return await _dbContext.Database.BeginTransactionAsync();
+        }
+
+        public async Task CommitAsync()
+        {
+            await _dbContext.Database.CommitTransactionAsync();
+        }
+
+        public async Task RollBackAsync()
+        {
+            await _dbContext.Database.RollbackTransactionAsync();
         }
         #endregion
     }
